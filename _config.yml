@@ -1,9 +1,11 @@
 ###########
 # site.title
 
-title: testing
-description: bla bla
-url: "https://de-lachende-cavalier.github.io"
+title: ET-Jekyll Theme
+description: A minimal Jekyll theme inspired by Tufte CSS
+url: "https://et-jekyll.netlify.app"
+host: 0.0.0.0
+
 
 #########################
 # more settings
@@ -20,7 +22,8 @@ compress_html:
     envs: []
 
 sass:
-  style:    :compressed
+  sass_dir: css
+  style:    compressed
 
 baseurl: ""
 permalink: pretty
