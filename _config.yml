@@ -1,7 +1,7 @@
 title: Sitzfleischlosigkeit
 description: WIP
 url: "https://de-lachende-cavalier.github.io"
-host: 0.0.0.0
+baseurl: ""
 
 markdown: kramdown
 
@@ -38,7 +38,6 @@ sass:
   sass_dir: css
   style: compressed
 
-baseurl: ""
 permalink: pretty
 timezone: Europe/Paris
 future: false
