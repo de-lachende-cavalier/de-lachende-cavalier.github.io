@@ -1,7 +1,7 @@
 ---
-layout: articles
+layout: devlogs
 title: devlogs
-description: A collection of devlogs relating to various projects.
+description: Chronicles of development adventures and misadventures.
 ---
 
-<p>A collection of devlogs documenting the developement of various projects.<\p>
+<p>A collection of devlogs documenting the developement of various projects.</p>
