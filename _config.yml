@@ -35,7 +35,6 @@ compress_html:
     envs: []
 
 sass:
-  sass_dir: css
   style: compressed
 
 permalink: pretty
