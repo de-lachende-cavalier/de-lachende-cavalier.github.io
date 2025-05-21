@@ -1,5 +1,5 @@
-title: Sitzfleischlosigkeit
-description: WIP
+title: sitzfleischlosigkeit
+description: A personal website which contains (relatively) short musings and other written artefacts.
 url: "https://de-lachende-cavalier.github.io"
 baseurl: ""
 
@@ -7,7 +7,7 @@ markdown: kramdown
 
 compress_html:
   clippings: all
-  comments: [""]
+  comments: ["<!--", "-->"]
   endings:
     [
       html,
@@ -38,5 +38,5 @@ sass:
   style: compressed
 
 permalink: pretty
-timezone: Europe/Paris
+timezone: Europe/Berlin
 future: false
