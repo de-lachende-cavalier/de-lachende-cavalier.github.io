@@ -1,8 +1,7 @@
 ---
 layout: articles
-title: Articles
-description: A collection of blog posts covering design and development across all mediums
+title: articles
+description: A collection of short essays on various topics.
 ---
 
-<p>A collection of blog posts covering design and development across all mediums.</p>
-
+<p>A collection of short musings on a variety of topics, mostly AI, philosophy and the sciences.<\p>
